@@ -1,4 +1,4 @@
-#Bryce Harper 2016 Season Analysis
+# Bryce Harper 2016 Season Analysis
 
 Author: Conor Dewey
 
